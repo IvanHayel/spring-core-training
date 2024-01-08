@@ -1,1 +1,1 @@
-# xml-configuration-demo
+# SPRING CORE TRAINING REPOSITORY
